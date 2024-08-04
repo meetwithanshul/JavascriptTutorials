@@ -1,3 +1,5 @@
+// https://www.w3schools.com/js/js_type_conversion.asp
+
 // let score = 25
 
 // How to check the Type of a variable in JS?
